@@ -1,1 +1,1 @@
-directory.setLoginListener("myLogin", "Admin"); // the "myLogin" function is in "required.js"
+directory.setLoginListener("myLogin", "Admin"); //// the "myLogin" function is in "required.js"
